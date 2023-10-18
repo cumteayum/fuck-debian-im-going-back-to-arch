@@ -1,0 +1,14 @@
+audio.equalizer.low_peak_gain_v2=161061274
+audio.equalizer.low_mid_peak_gain_v2=178956971
+audio.equalizer.high_mid_peak_gain_v2=214748365
+audio.allow_downgrade=false
+audio.sync_bitrate_enumeration=3
+audio.play_bitrate_non_metered_migrated=true
+audio.equalizer_v2=true
+audio.play_bitrate_enumeration=3
+audio.equalizer.high_peak_gain_v2=161061274
+audio.play_bitrate_non_metered_enumeration=3
+ui.right_panel_content=2
+audio.equalizer.high_shelf_gain_v2=125269879
+audio.loudness.environment=2
+audio.equalizer.low_shelf_gain_v2=268435456
